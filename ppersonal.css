@@ -1,0 +1,32 @@
+#nombre{
+  font-family: 'Macondo', cursive;
+  text-align: center;
+}
+.izquierda{
+  text-align: left;
+}
+.titulo{
+  font-family: 'Macondo', cursive;
+  text-decoration: underline;
+}
+
+.derecha{
+  text-align: right;
+}
+.parrafo{
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+.abajo{
+  font-size: 10px;
+
+}
+img{
+  width:25px;
+}
+a{
+  text-decoration: none;
+}
+footer{
+  background-color: red;
+}
